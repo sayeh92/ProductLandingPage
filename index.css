@@ -54,8 +54,8 @@ header {
 }
 
 #picture{
-    width: 100%;
-    height: auto;
+    width: 50%;
+    height: 50%;
     border-radius:100px;
     border: 1px #916024 solid ;
     display:flex;
