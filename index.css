@@ -35,7 +35,7 @@ header {
     align-items:center;
     padding:5px 10px;
     background-color: #040404;
-    margin-bottom: 5em;
+    margin-bottom: 5px;
     position: fixed;
     width: 100%;
     height: 2.5rem;
@@ -56,8 +56,8 @@ header {
 }
 
 #picture{
-    width: 50%;
-    height: 70%;
+    width: 70%;
+    height: auto;
     border-radius:100px;
     border: 1px #916024 solid ;
     display:flex;
